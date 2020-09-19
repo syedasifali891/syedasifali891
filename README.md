@@ -1,5 +1,7 @@
 ### Hi there 👋
+# SYED ASIF ALI
 
+An independent and Self-motivated student with proven ability in developing data Science projects. I have also participated in various competitions of competitive programming. Recognised by professor's, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning Advanced Data Scince
