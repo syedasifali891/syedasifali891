@@ -1,6 +1,6 @@
 # SYED ASIF ALI
 
-[![LinkedIn](extras/logo.gif)](https://www.linkedin.com/in/syed-asif-ali-07ab51104/)
+[![LinkedIn](https://www.google.com/search?q=linkedin+logo&rlz=1C1SQJL_enIN907IN907&sxsrf=ALeKk03bmIzJ0HcqrgWtGXMiUZEEXvGFng:1600519400510&tbm=isch&source=iu&ictx=1&fir=ernLeyzUCwyXGM%252CehgKIKEfe06raM%252C_&vet=1&usg=AI4_-kQUmUmszAAyQbCAFiXV3_G6D4R5vQ&sa=X&ved=2ahUKEwj74Mqyn_XrAhUBILcAHZBCCWQQ9QF6BAgKEFw&biw=1536&bih=754#imgrc=ernLeyzUCwyXGM)](https://www.linkedin.com/in/syed-asif-ali-07ab51104/)
 
 
 ### Hi there 👋
