@@ -1,6 +1,6 @@
 # SYED ASIF ALI
 
-[![LinkedIn](linkedin-42-151143.png//Webp.net-resizeimage.png)](https://www.linkedin.com/in/syed-asif-ali-07ab51104/)
+[![LinkedIn](linkedinlogo.png)](https://www.linkedin.com/in/syed-asif-ali-07ab51104/)
 
 
 ### Hi there 👋
