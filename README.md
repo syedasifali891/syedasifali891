@@ -1,5 +1,7 @@
 # SYED ASIF ALI
 
+[![LinkedIn](extras/logo.gif)](https://www.linkedin.com/in/syed-asif-ali-07ab51104/)
+
 
 ### Hi there 👋
 
