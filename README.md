@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning and Data Processing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/syed-asif-ali-07ab51104/)
 - 😄 Pronouns: You can give me one
-- :heart: Data Freak
+- ❤️ Data Freak
 - ⚡ Fun fact: I can work without Music
 -->
